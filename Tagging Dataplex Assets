@@ -1,4 +1,4 @@
-export REGION=
+export REGION=us-west1
 
 gcloud services enable \
   dataplex.googleapis.com \
